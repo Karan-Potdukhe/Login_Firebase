@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961961624917",
+    "firebase_url": "https://student-form-657f6.firebaseio.com",
+    "project_id": "student-form-657f6",
+    "storage_bucket": "student-form-657f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961961624917:android:dfa125fee116ec5a72dbdc",
+        "android_client_info": {
+          "package_name": "com.workshop.studentform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961961624917-np06sk29vin0cq4ncuukdh5gnlqtq6q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQDy2J1FxaYV_o2syiUX0MTYKjFl1jxtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961961624917-np06sk29vin0cq4ncuukdh5gnlqtq6q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
